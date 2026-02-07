@@ -2,7 +2,7 @@
 
 This repository is the public issue tracker for the GeoAR.it platform.
 
-Main repository: https://github.com/geoarit
+Main repository: https://github.com/GeoARit
 
 To open a new issue, head to https://github.com/GeoARit/Public/issues/new?labels=area:web,bug and choose an area label and a normal label.
 
