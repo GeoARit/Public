@@ -1,4 +1,4 @@
-# GeoAR.it Public Issues
+# GeoAR.it Issues
 
 This repository is the public issue tracker for the GeoAR.it platform.
 
